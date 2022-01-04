@@ -3,7 +3,7 @@ i'm a backend and frontend/mobile developer
 
 - 🔭 I’m currently working as fullstack developer with Spring Boot and ReactJS
 - 🌱 I’m currently learning Flutter 
-- ⚡ I'm very intrested in distributed systems
+- ⚡ I'm very intrested in distributed systems and testing
 - 📫 How to reach me: leonandrogurgel@hotmail.com
 
 ### Languages and tools
