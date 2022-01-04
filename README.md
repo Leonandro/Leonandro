@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there, i'm Leonandro 👋
+i'm a backend and frontend/mobile developer
 
-<!--
-**Leonandro/Leonandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as fullstack developer with Spring Boot and ReactJS
+- 🌱 I’m currently learning Flutter 
+- ⚡ I'm very intrested in distributed systems
+- 📫 How to reach me: leonandrogurgel@hotmail.com
 
-Here are some ideas to get you started:
+### Languages and tools
+#### Backend 
+<div style="display: inline-block">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### FrontEnd and Mobile 
+<div style="display: inline-block">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</div> 
+
+#
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonandro&show_icons=true&theme=radical)
