@@ -24,4 +24,5 @@ i'm a backend and frontend/mobile developer
 
 #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonandro&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonandro&show_icons=true&count_private=true&hide=issues,stars&theme=radical)
