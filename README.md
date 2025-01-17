@@ -1,9 +1,8 @@
 ### Hi there, i'm Leonandro 👋
 I'm a backend developer and master's student in systems and computing at Federal University of Rio Grande do Norte.
 
-- 🔭 I’m currently working as backend developer with Python (Django Rest Framework) at Intelbras
+- 🔭 I’m currently working as Software Engineer at Nubank.
 - 👨‍🔬 My scientific research is focused on osmotic computing and 5G 
-- 💻 I have experience with microservices-based systems and am used to working with Java (Spring)
 - ⚡  I'm I am very interested in studying golang for servless and highly scalable microservices
 - 🦾  I can help with frontend and mobile (cross-platform) with ReactJs and React-Native
 - 📫 How to reach me: leonandrogurgel@hotmail.com | https://www.linkedin.com/in/leonandro-gurgel-767480212/
